@@ -605,12 +605,12 @@ local quests = {{
     name = "X Fighter Trainer",
     nickname = "X Fighter",
     requiredValue = 0,
-    endRange = 30000,
+    endRange = 60000,
     planet = "Earth"
 }, {
     name = "Kid Nohag",
     nickname = "Kid Nohag",
-    requiredValue = 0,
+    requiredValue = 60001,
     endRange = 8000000000,
     planet = "Earth"
 }, {
