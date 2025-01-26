@@ -608,15 +608,16 @@ local quests = {{
     endRange = 60000,
     planet = "Earth"
 }, {
-    name = "Kid Nohag",
-    nickname = "Kid Nohag",
-    requiredValue = 60001,
-    endRange = 8000000000,
+    name = "Halloween NPC
+",
+    nickname = "Halloween NPC",
+    requiredValue = 50000000,
+    endRange = 1000000000000,
     planet = "Earth"
 }, {
     name = "Vekuta (SSJBUI)",
     nickname = "Vekuta (SSJBUI)",
-    requiredValue = 12000000001,
+    requiredValue = 12000000000001,
     endRange = 2000000000000000000,
     planet = "Bills"
 }}
